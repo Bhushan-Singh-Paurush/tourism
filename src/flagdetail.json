@@ -1,0 +1,305 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "images":[
+        "https://unsplash.com/photos/a-building-with-flags-on-the-front-Fs3Qaj6vJ0k"
+      ],
+      "domain": ".us",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_us-flag.gif",
+      "description": "A vast country known for its diverse landscapes, major cities, and iconic landmarks.",
+      "touristLocations": [
+        "Statue of Liberty",
+        "Grand Canyon",
+        "Yellowstone National Park",
+        "Disneyland"
+      ]
+    },
+    {
+      "name": "Canada",
+      "images":[
+        "https://unsplash.com/photos/gray-concrete-road-between-brown-and-green-leaf-trees-at-daytime-5hvn-2WW6rY"
+      ],
+      "domain": ".ca",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_ca-flag.gif",
+      "description": "Famous for its natural beauty, multicultural cities, and friendly locals.",
+      "touristLocations": [
+        "Niagara Falls",
+        "Banff National Park",
+        "CN Tower",
+        "Old Quebec"
+      ]
+    },
+    {
+      "name": "Brazil",
+      "images":[
+      "https://unsplash.com/photos/the-sun-is-setting-over-the-ocean-on-the-beach-U6gwk5QluqI"
+      ],
+      "domain": ".br",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_bh-flag.gif",
+      "description": "Known for the Amazon rainforest, vibrant culture, and the annual Carnival festival.",
+      "touristLocations": [
+        "Christ the Redeemer",
+        "Sugarloaf Mountain",
+        "Iguaçu Falls",
+        "Amazon Rainforest"
+      ]
+    },
+    {
+      "name": "Mexico",
+      "images":[
+      "https://unsplash.com/photos/people-standing-on-corner-road-near-concrete-buildings-during-daytime-3snKY0XMKwg"
+      ],
+      "domain": ".mx",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_mx-flag.gif",
+      "description": "Rich in history with ancient ruins, beautiful beaches, and flavorful cuisine.",
+      "touristLocations": [
+        "Chichen Itza",
+        "Cancun Beaches",
+        "Teotihuacan",
+        "Copper Canyon"
+      ]
+    },
+    {
+      "name": "Argentina",
+      "images":[
+       "https://unsplash.com/photos/landscape-photography-of-white-iceburg-tZpmdFfU5gQ"
+      ],
+      "domain": ".ar",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_af-flag.gif",
+      "description": "Known for tango, scenic landscapes, and the lively culture of Buenos Aires.",
+      "touristLocations": [
+        "Iguazu Falls",
+        "Perito Moreno Glacier",
+        "Buenos Aires",
+        "Mendoza Wine Region"
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "images":[
+             "https://unsplash.com/photos/big-bens-clock-at-night-w3mEcHyuk_E"
+      ],
+      "domain": ".uk",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_uk-flag.gif",
+      "description": "A historic country home to medieval castles, the royal family, and Big Ben.",
+      "touristLocations": [
+        "Big Ben",
+        "Tower of London",
+        "Stonehenge",
+        "Edinburgh Castle"
+      ]
+    },
+    {
+      "name": "France",
+      "images":[
+      "https://unsplash.com/photos/eiffel-tower-paris-france-nnzkZNYWHaU"
+      ],
+      "domain": ".fr",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_fr-flag.gif",
+      "description": "Renowned for its art, fashion, and world-famous landmarks such as the Eiffel Tower.",
+      "touristLocations": [
+        "Eiffel Tower",
+        "Louvre Museum",
+        "Mont Saint-Michel",
+        "Versailles Palace"
+      ]
+    },
+    {
+      "name": "Germany",
+      "images":[
+      "https://unsplash.com/photos/white-and-pink-petaled-flowers-on-metal-fence-near-concrete-houses-and-tower-at-daytime-g_gwdpsCVAY"
+      ],
+      "domain": ".de",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_gm-flag.gif",
+      "description": "Known for its history, castles, Oktoberfest, and thriving modern cities.",
+      "touristLocations": [
+        "Berlin Wall",
+        "Neuschwanstein Castle",
+        "Oktoberfest",
+        "Brandenburg Gate"
+      ]
+    },
+    {
+      "name": "Italy",
+      "images":[
+      "https://unsplash.com/photos/rialto-bridge-venice-italy-hFXZ5cNfkOk"
+      ],
+      "domain": ".it",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_it-flag.gif",
+      "description": "Famous for its ancient ruins, art, architecture, and delicious cuisine.",
+      "touristLocations": [
+        "Colosseum",
+        "Venice Canals",
+        "Leaning Tower of Pisa",
+        "Vatican Museums"
+      ]
+    },
+    {
+      "name": "Spain",
+      "images":[
+      "https://unsplash.com/photos/brown-cathedral-during-daytime-d0xjEv-WJQk"
+      ],
+      "domain": ".es",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_sp-flag.gif",
+      "description": "A vibrant country with rich history, architecture, and beautiful beaches.",
+      "touristLocations": [
+        "Sagrada Familia",
+        "Alhambra",
+        "Seville Cathedral",
+        "La Rambla"
+      ]
+    },
+    {
+      "name": "China",
+      "images":[
+      "https://unsplash.com/photos/brown-wooden-houses-beside-river-WHhbYArwFt8"
+      ],
+      "domain": ".cn",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_ch-flag.gif",
+      "description": "A vast and ancient nation with landmarks like the Great Wall and Forbidden City.",
+      "touristLocations": [
+        "Great Wall of China",
+        "Forbidden City",
+        "Terracotta Warriors",
+        "Yellow Mountains"
+      ]
+    },
+    {
+      "name": "Japan",
+      "images":[
+      "https://unsplash.com/photos/pagoda-surrounded-by-trees-E_eWwM29wfU"
+      ],
+      "domain": ".jp",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_ja-flag.gif",
+      "description": "A unique blend of ancient traditions and modern technology, with famous cherry blossoms.",
+     
+      "touristLocations": [
+        "Mount Fuji",
+        "Tokyo Tower",
+        "Kyoto's Temples",
+        "Hiroshima Peace Memorial"
+      ]
+    },
+    {
+      "name": "India",
+      "images":[
+      "https://unsplash.com/photos/palace-at-night-JRhvllDBhzs"
+      ],
+      "domain": ".in",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_in-flag.gif",
+      "description": "A culturally diverse country with spiritual sites, vibrant festivals, and historical wonders.",
+      "touristLocations": [
+        "Taj Mahal",
+        "Jaipur's Palaces",
+        "Kerala Backwaters",
+        "Goa Beaches"
+      ]
+    },
+    {
+      "name": "Australia",
+      "images":[
+      "https://unsplash.com/photos/opera-house-sydney-australia-r2L6vCKaVRk"
+      ],
+      "domain": ".au",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_au-flag.gif",
+      "description": "Known for its unique wildlife, scenic beaches, and the iconic Sydney Opera House.",
+      "touristLocations": [
+        "Sydney Opera House",
+        "Great Barrier Reef",
+        "Bondi Beach",
+        "Uluru"
+      ]
+    },
+    {
+      "name": "Russia",
+      "images":[
+             "https://unsplash.com/photos/horse-with-carriage-running-beside-building-jDQ7goYMKgc"
+      ],
+      "domain": ".ru",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_rs-flag.gif",
+      "description": "A vast country with cold climates, historic architecture, and cultural landmarks.",
+      "touristLocations": [
+        "Red Square",
+        "Saint Basil's Cathedral",
+        "Hermitage Museum",
+        "Lake Baikal"
+      ]
+    },
+    {
+      "name": "South Korea",
+      "images":[
+      "https://unsplash.com/photos/aerial-view-photography-of-houses-during-golden-hour-KKz6NgO69yQ"
+      ],
+      "domain": ".kr",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_kn-flag.gif",
+      "description": "Known for its advanced technology, vibrant cities, and rich history.",
+      "touristLocations": [
+        "Gyeongbokgung Palace",
+        "Jeju Island",
+        "Seoul Tower",
+        "Bukchon Hanok Village"
+      ]
+    },
+    {
+      "name": "South Africa",
+      "images":[
+      "https://unsplash.com/photos/group-of-zebra-walking-on-wheat-field-Jgiv1rSIpVM"
+      ],
+      "domain": ".za",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_sf-flag.gif",
+      "description": "A diverse country with beautiful coastlines, wildlife safaris, and mountains.",
+      "touristLocations": [
+        "Table Mountain",
+        "Kruger National Park",
+        "Cape Town",
+        "Garden Route"
+      ]
+    },
+    {
+      "name": "Egypt",
+      "images":[
+      "https://www.pexels.com/photo/blue-and-purple-cosmic-sky-956999/"
+      ],
+      "domain": ".eg",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_eg-flag.gif",
+      "description": "Home to ancient wonders, including the Great Pyramids and the Nile River.",
+      "touristLocations": [
+        "Pyramids of Giza",
+        "Nile River",
+        "Luxor Temple",
+        "Valley of the Kings"
+      ]
+    },
+    {
+      "name": "Turkey",
+      "images":[
+      "https://unsplash.com/photos/people-walking-near-train-0wM3sBMDXq4"
+      ],
+      "domain": ".tr",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_tu-flag.gif",
+      "description": "A historical and cultural bridge between Europe and Asia.",
+      "touristLocations": [
+        "Hagia Sophia",
+        "Cappadocia",
+        "Blue Mosque",
+        "Pamukkale"
+      ]
+    },
+    {
+      "name": "Thailand",
+      "images":[
+        "https://unsplash.com/photos/standing-statue-and-temples-landmark-during-daytime-gsllxmVO4HQ"
+      ],
+      "domain": ".th",
+      "flagUrl": "https://www.worldometers.info//img/flags/small/tn_th-flag.gif",
+      "description": "Known for its stunning beaches, temples, and friendly locals.",
+      "touristLocations": [
+        "Grand Palace",
+        "Phi Phi Islands",
+        "Chiang Mai Temples",
+        "Ayutthaya"
+      ]
+    }
+  ]
+}

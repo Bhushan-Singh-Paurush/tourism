@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.mygradient1{
+    background:linear-gradient(to right, black, rgb(18, 18, 18) , black )
+}
+.mygradient2{
+    background:linear-gradient(to right,  rgb(18, 18, 18) , black ,rgb(11, 11, 11))
+}
