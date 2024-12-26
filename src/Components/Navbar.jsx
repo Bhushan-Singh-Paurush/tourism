@@ -16,7 +16,7 @@ export const Navbar = () => {
       <NavLink to="/"><img src="/images/rb_98465.png" alt="logo" className="w-[80px] h-[55px] sm:w-[100px] sm:h-[60px]" /></NavLink>
       <GiHamburgerMenu onClick={handelar} className="text-2xl  sm:hidden text-slate-200"/>
       {isvisible && <div className="w-[60%] flex justify-center items-center rounded-xl border-slate-600 shadow-lg shadow-slate-800 h-[30vh] absolute top-[70px] right-0 bg-lightblack">
-        <div className="flex flex-col  items-start text-3xl text-slate-200 gap-10 ">
+        <div className="flex flex-col  items-start text-2xl text-slate-200 gap-10 ">
             
             <NavLink onClick={handelar}  className="flex gap-4 items-center " to="/"><FaHome /> Home</NavLink>
             <NavLink onClick={handelar} className="flex gap-4 items-center " to="/About"><FcAbout /> About</NavLink>
