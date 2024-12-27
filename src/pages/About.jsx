@@ -10,7 +10,9 @@ export const About = () => {
   }
   function orderhandeler(event)
   {
-      event.target.value==='ALL' ? setData(flagdetail.countries) : setData(data=>data.sort((a,b)=>(a.name.localeCompare(b.name))))
+  console.log(event.target.value);
+  
+    event.target.value=='ALL' ? setData(flagdetail.countries) : setData(data=>[...data].sort((a,b)=>(a.name.localeCompare(b.name))))
     
   }
   function handler(domain)
